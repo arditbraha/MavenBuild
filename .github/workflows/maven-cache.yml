@@ -5,7 +5,7 @@ on:
 jobs:
   docker:
     env:
-     appName: "springboot-image"
+     appName: "springboot-img"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
